@@ -14,7 +14,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/PRODUCTION-%23000000?style=for-the-badge&logo=audiomack&logoColor=FF007F" />
-  <img src="https://img.shields.io/badge/SYSTEMS_&_NETWORKS-%23000000?style=for-the-badge&logo=wireshark&logoColor=00D2FF" />
+  <img src="https://img.shields.io/badge/SYSTEMS-%23000000?style=for-the-badge&logo=wireshark&logoColor=00D2FF" />
   <img src="https://img.shields.io/badge/CREATIVE_DIRECTION-%23000000?style=for-the-badge&logo=adobepremierepro&logoColor=00FF66" />
 </p>
 
