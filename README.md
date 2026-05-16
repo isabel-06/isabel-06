@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isabel-06&show_icons=true&theme=radial" alt="Mis estadísticas" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabel-06&layout=compact&theme=radial" alt="Top Lenguajes" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isabel-06&theme=radial" alt="GitHub Streak Stats" height="160" />
 </p>
