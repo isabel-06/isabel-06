@@ -1,12 +1,10 @@
 # ¡Hola! Soy Isabel 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-%2300FF66?style=flat-square&logo=statuspage&logoColor=00FF66" alt="Status">
-  <img src="https://img.shields.io/badge/CURRENT_FOCUS-HARDWARE_&_BACKSTAGE-%2300D2FF?style=flat-square&logo=cpu&logoColor=00D2FF" alt="Focus">
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00ff66?style=for-the-badge&logo=statuspage&logoColor=000000&labelColor=000000" alt="Status">
+  <img src="https://img.shields.io/badge/FOCUS-HARDWARE-00d2ff?style=for-the-badge&logo=cpu&logoColor=000000&labelColor=000000" alt="Focus">
 </p>
-
 ---
-
 ###  Mi Actividad en GitHub
 
 <p align="center">
@@ -14,7 +12,6 @@
 </p>
 
 ---
-
 ###  Tecnologías y Herramientas
 
 Clasificadas por las áreas en las que trabajo y desarrollo mis proyectos:
@@ -29,7 +26,6 @@ Clasificadas por las áreas en las que trabajo y desarrollo mis proyectos:
 </p>
 
 ---
-
 ### Sobre mí
 
 Estudiante de DAM, pero con el corazón y el foco puestos en los Sistemas Informáticos.
