@@ -14,11 +14,62 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# ¡Hola! Soy Isabel 👋
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Estudiante%20DAM-blue?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Java-orange?style=flat-square" alt="Focus">
+</p>
+
+---
+
+### 📊 Mi Actividad en GitHub
+
+Aquí tienes una vista de mi ritmo de desarrollo y actividad en la plataforma:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isabel-06&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isabel-06&theme=2077" alt="Resumen de Perfil" width="85%" />
+</p>
+
+---
+
 ### 🛠️ Tecnologías y Herramientas
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Clasificadas por las áreas en las que trabajo y desarrollo mis proyectos:
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br />Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+      <br />SQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br />HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br />CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br />Git
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Sobre mí
+
+* 💻 Actualmente enfocado en el desarrollo de aplicaciones multiplataforma.
+* ☕ Especial interés en la lógica de programación con Java y la gestión de bases de datos.
+* 🛠️ Aprendiendo constantemente nuevas herramientas para optimizar código y flujos de trabajo.
