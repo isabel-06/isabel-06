@@ -44,12 +44,12 @@ Clasificadas por las áreas en las que trabajo y desarrollo mis proyectos:
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br />Java
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br />Linux
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
-      <br />SQL
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br />Git
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -59,17 +59,17 @@ Clasificadas por las áreas en las que trabajo y desarrollo mis proyectos:
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
       <br />CSS3
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br />Git
-    </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Sobre mí
+Sobre mí
 
-* 💻 Actualmente enfocado en el desarrollo de aplicaciones multiplataforma.
-* ☕ Especial interés en la lógica de programación con Java y la gestión de bases de datos.
-* 🛠️ Aprendiendo constantemente nuevas herramientas para optimizar código y flujos de trabajo.
+Estudiante de DAM, pero con el corazón y el foco puestos en los Sistemas Informáticos, la infraestructura y las redes.
+
+Me va el despliegue técnico: configurar, conectar cosas, montar setups y solucionar problemas en tiempo real.
+
+Producción Audiovisual: Co-creadora y editora de un podcast junto a mi mejor amiga.
+
+Mi meta: Fusionar la informática con el sector del entretenimiento y los grandes eventos con el ojo puesto en la producción técnica y la energía de proyectos tipo Red Bull o agencias creativas.
