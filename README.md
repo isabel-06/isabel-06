@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/IDENTIDAD-ESENCIA-24292f?style=flat-square&labelColor=161b22" alt="Identidad">
   <img src="https://img.shields.io/badge/MENTE-CURIOSA-24292f?style=flat-square&labelColor=161b22" alt="Mente">
   <img src="https://img.shields.io/badge/RITMO-PROPIO-24292f?style=flat-square&labelColor=161b22" alt="Ritmo">
+  <img src="https://img.shields.io/badge/ACTUALIDAD-DAM-24292f?style=flat-square&labelColor=161b22" alt="Actualidad">
 </p>
 
 ###  Mi Actividad en GitHub
@@ -29,7 +30,7 @@ Clasificadas por las áreas en las que trabajo y desarrollo mis proyectos:
 ---
 ### Sobre mí
 
-Estudiante de DAM, pero con el corazón y el foco puestos en los Sistemas Informáticos.
+Estudiante de DAM, pero con el corazón y el foco puestos en los Sistemas.
 
 Me va el despliegue técnico: configurar, conectar cosas, montar setups y solucionar problemas en tiempo real.
 
