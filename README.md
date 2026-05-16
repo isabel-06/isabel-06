@@ -1,8 +1,9 @@
 # ¡Hola! Soy Isabel 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SO-LINUX-%23ff007f?style=flat&labelColor=%23000000" alt="Sistema Operativo">
-  <img src="https://img.shields.io/badge/HOBBY-GAMING-%2300d2ff?style=flat&labelColor=%23000000" alt="Hobby">
+  <img src="https://img.shields.io/badge/IDENTITY-ESENCIA-%23ff007f?style=flat&labelColor=%23000000" alt="Identidad">
+  <img src="https://img.shields.io/badge/MIND-CURIOSA-%2300d2ff?style=flat&labelColor=%23000000" alt="Mente">
+  <img src="https://img.shields.io/badge/LEARNING-PASO_A_PASO-%2300ff66?style=flat&labelColor=%23000000" alt="Aprendizaje">
 </p>
 
 
