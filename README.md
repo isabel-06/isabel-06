@@ -1,8 +1,8 @@
 # ¡Hola! Soy Isabel 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/STATUS-LISTO_PARA_EL_LÍO-%23ff007f?style=flat&labelColor=%23000000" alt="Status">
-  <img src="https://img.shields.io/badge/CACHARREO-HARDWARE-%2300d2ff?style=flat&labelColor=%23000000" alt="Focus">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-%23ff007f?style=flat&labelColor=%23000000" alt="Status">
+  <img src="https://img.shields.io/badge/FIELD-HARDWARE_ENG-%2300d2ff?style=flat&labelColor=%23000000" alt="Focus">
 </p>
 
 
