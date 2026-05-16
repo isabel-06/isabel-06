@@ -1,6 +1,3 @@
-## Hi there 
-
-
 # ¡Hola! Soy Isabel 
 
 <p align="left">
