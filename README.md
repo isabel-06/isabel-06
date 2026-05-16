@@ -30,7 +30,7 @@ Clasificadas por las áreas en las que trabajo y desarrollo mis proyectos:
 
 ---
 
-Sobre mí
+### Sobre mí
 
 Estudiante de DAM, pero con el corazón y el foco puestos en los Sistemas Informáticos.
 
