@@ -1,19 +1,6 @@
 ## Hi there 👋
 
-<!--
-**isabel-06/isabel-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # ¡Hola! Soy Isabel 👋
 
 <p align="left">
@@ -23,13 +10,15 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 Panel de Control / Métricas
+### ⚡ El Pulso Técnico
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isabel-06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ed6df&icon_color=7ed6df&text_color=ffffff&include_all_commits=true" alt="Métricas Principales" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabel-06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ed6df&text_color=ffffff" alt="Lenguajes Utilizados" height="180" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=isabel-06&show_icons=true&theme=calm&hide_border=true&bg_color=2,0d1117,161b22&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2&border_radius=20" alt="Métricas de Diseño" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=isabel-06&layout=compact&theme=calm&hide_border=true&bg_color=2,0d1117,161b22&title_color=ff79c6&text_color=f8f8f2&border_radius=20" alt="Lenguajes de Diseño" height="170" />
 </p>
 
+---
 ---
 
 ### 🛠️ Tecnologías y Herramientas
