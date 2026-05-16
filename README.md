@@ -25,14 +25,14 @@ Here are some ideas to get you started:
 
 ### 📊 Mi Actividad en GitHub
 
-Aquí tienes una vista de mi ritmo de desarrollo y actividad en la plataforma:
+Aquí tienes una vista limpia de mi ritmo de desarrollo y actividad en los repositorios:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isabel-06&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isabel-06&theme=2077" alt="Resumen de Perfil" width="85%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isabel-06&theme=tokyonight&bg_color=0d1117&hide_border=true&color=7ed6df&line=22a6b3" alt="Gráfica de Actividad Estilizada" width="100%" />
 </p>
 
 ---
