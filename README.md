@@ -1,8 +1,8 @@
 # ¡Hola! Soy Isabel 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Estudiante%20DAM-blue?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-orange?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-%2300FF66?style=flat-square&logo=statuspage&logoColor=00FF66" alt="Status">
+  <img src="https://img.shields.io/badge/CURRENT_FOCUS-HARDWARE_&_BACKSTAGE-%2300D2FF?style=flat-square&logo=cpu&logoColor=00D2FF" alt="Focus">
 </p>
 
 ---
