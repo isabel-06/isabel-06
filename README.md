@@ -36,4 +36,4 @@ Me va el despliegue técnico: configurar, conectar cosas, montar setups y soluci
 
 Producción Audiovisual: Co-creadora y editora de un podcast junto a mi mejor amiga.
 
-Mi meta: Fusionar la informática con el sector del entretenimiento y los grandes eventos con el ojo puesto en la producción técnica y la energía de proyectos tipo Red Bull o agencias creativas.
+Mi meta: Fusionar la informática con el sector del entretenimiento y los grandes eventos con el ojo puesto en la producción técnica y la energía de proyectos creativo.
