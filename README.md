@@ -5,7 +5,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Estudiante%20DAM-blue?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Java-orange?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Focus-orange?style=flat-square" alt="Focus">
 </p>
 
 ---
