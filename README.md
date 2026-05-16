@@ -10,51 +10,28 @@
 
 ---
 
-### ⚡ El Pulso Técnico
+### 📊 Mi Actividad en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=isabel-06&show_icons=true&theme=calm&hide_border=true&bg_color=2,0d1117,161b22&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2&border_radius=20" alt="Métricas de Diseño" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=isabel-06&layout=compact&theme=calm&hide_border=true&bg_color=2,0d1117,161b22&title_color=ff79c6&text_color=f8f8f2&border_radius=20" alt="Lenguajes de Diseño" height="170" />
+<p align="left">
+  <img src="https://img.shields.io/badge/PRODUCTION-%23000000?style=for-the-badge&logo=audiomack&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/SYSTEMS_&_NETWORKS-%23000000?style=for-the-badge&logo=wireshark&logoColor=00D2FF" />
+  <img src="https://img.shields.io/badge/CREATIVE_DIRECTION-%23000000?style=for-the-badge&logo=adobepremierepro&logoColor=00FF66" />
 </p>
 
----
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
 Clasificadas por las áreas en las que trabajo y desarrollo mis proyectos:
 
-### 🛠️ Tecnologías y Herramientas
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br />Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br />Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
-      <br />SQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br />HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br />CSS3
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=22a6b3" />
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=ff79c6" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=8be9fd" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=50fa7b" />
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=ffb86c" />
+  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=bd93f9" />
+</p>
 
 ---
 
