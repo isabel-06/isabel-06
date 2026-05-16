@@ -1,11 +1,10 @@
 # ¡Hola! Soy Isabel 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/IDENTITY-ESENCIA-%23ff007f?style=flat&labelColor=%23000000" alt="Identidad">
-  <img src="https://img.shields.io/badge/MIND-CURIOSA-%2300d2ff?style=flat&labelColor=%23000000" alt="Mente">
-  <img src="https://img.shields.io/badge/LEARNING-PASO_A_PASO-%2300ff66?style=flat&labelColor=%23000000" alt="Aprendizaje">
+  <img src="https://img.shields.io/badge/IDENTIDAD-ESENCIA-24292f?style=flat-square&labelColor=161b22" alt="Identidad">
+  <img src="https://img.shields.io/badge/MENTE-CURIOSA-24292f?style=flat-square&labelColor=161b22" alt="Mente">
+  <img src="https://img.shields.io/badge/RITMO-PROPIO-24292f?style=flat-square&labelColor=161b22" alt="Ritmo">
 </p>
-
 
 ###  Mi Actividad en GitHub
 
