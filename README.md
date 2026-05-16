@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 
 
 
-# ¡Hola! Soy Isabel 👋
+# ¡Hola! Soy Isabel 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Estudiante%20DAM-blue?style=flat-square" alt="Status">
@@ -10,17 +10,15 @@
 
 ---
 
-### 📊 Mi Actividad en GitHub
+###  Mi Actividad en GitHub
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PRODUCTION-%23000000?style=for-the-badge&logo=audiomack&logoColor=FF007F" />
-  <img src="https://img.shields.io/badge/SYSTEMS-%23000000?style=for-the-badge&logo=wireshark&logoColor=00D2FF" />
-  <img src="https://img.shields.io/badge/CREATIVE_DIRECTION-%23000000?style=for-the-badge&logo=adobepremierepro&logoColor=00FF66" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isabel-06&theme=github-compact&bg_color=0d1117&hide_border=true&color=00D2FF&line=00D2FF&point=ffffff" alt="Mi Actividad Real" width="100%" />
 </p>
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+###  Tecnologías y Herramientas
 
 Clasificadas por las áreas en las que trabajo y desarrollo mis proyectos:
 
