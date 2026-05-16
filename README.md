@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/FOCUS-HARDWARE-00d2ff?style=for-the-badge&logo=cpu&logoColor=000000&labelColor=000000" alt="Focus">
 </p>
 ---
+
 ###  Mi Actividad en GitHub
 
 <p align="center">
