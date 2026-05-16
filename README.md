@@ -1,8 +1,8 @@
 # ¡Hola! Soy Isabel 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-%23ff007f?style=flat&labelColor=%23000000" alt="Status">
-  <img src="https://img.shields.io/badge/FIELD-HARDWARE-%2300d2ff?style=flat&labelColor=%23000000" alt="Focus">
+  <img src="https://img.shields.io/badge/SO-LINUX-%23ff007f?style=flat&labelColor=%23000000" alt="Sistema Operativo">
+  <img src="https://img.shields.io/badge/HOBBY-GAMING-%2300d2ff?style=flat&labelColor=%23000000" alt="Hobby">
 </p>
 
 
