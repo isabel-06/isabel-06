@@ -41,6 +41,8 @@ Aquí tienes una vista de mi ritmo de desarrollo y actividad en la plataforma:
 
 Clasificadas por las áreas en las que trabajo y desarrollo mis proyectos:
 
+### 🛠️ Tecnologías y Herramientas
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -50,6 +52,14 @@ Clasificadas por las áreas en las que trabajo y desarrollo mis proyectos:
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br />Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br />Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+      <br />SQL
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -66,7 +76,7 @@ Clasificadas por las áreas en las que trabajo y desarrollo mis proyectos:
 
 Sobre mí
 
-Estudiante de DAM, pero con el corazón y el foco puestos en los Sistemas Informáticos, la infraestructura y las redes.
+Estudiante de DAM, pero con el corazón y el foco puestos en los Sistemas Informáticos.
 
 Me va el despliegue técnico: configurar, conectar cosas, montar setups y solucionar problemas en tiempo real.
 
