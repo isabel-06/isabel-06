@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isabel-06&theme=github-compact&bg_color=0d1117&hide_border=true&color=00D2FF&line=00D2FF&point=ffffff" alt="Mi Actividad Real" width="100%" />
-</p>
+</p> 
 
 ---
 ###  Tecnologías y Herramientas
