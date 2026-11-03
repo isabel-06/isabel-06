@@ -10,8 +10,8 @@
 ###  Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=isabel-06&theme=github-compact&bg_color=0d1117&hide_border=true&color=00D2FF&line=00D2FF&point=ffffff" alt="Mi Actividad Real" width="100%" />
-</p>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isabel-06&theme=dark&background=0d1117&border=0d1117&stroke=00D2FF&ring=00D2FF&fire=00D2FF" alt="Mi Actividad Real" width="100%" />
+</p>
 
 ---
 ###  Tecnologías y Herramientas
