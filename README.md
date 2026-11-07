@@ -25,6 +25,7 @@ Clasificadas por las áreas en las que trabajo y desarrollo mis proyectos:
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=50fa7b" />
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=ffb86c" />
   <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/C#-000?style=for-the-badge&logo=mysql&logoColor=bd93f9" />
 </p>
 
 ---
